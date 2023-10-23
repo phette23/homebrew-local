@@ -10,6 +10,8 @@ Or `brew tap phette23/local` and then `brew install <formula>`.
 
 ## Adding formula
 
+I tried to make these a `./version.fish FORMULA VERSION` script but it may not work.
+
 ```sh
 brew tap homebrew/core # core may not be tapped under new brew JSON APIs
 brew install $FORMULA
