@@ -2,6 +2,8 @@
 
 Created via `brew tap-brew phette23/local` command.
 
+These are all specific old versions of formulae I've needed for some reason, usually to overcome installation errors of other tools. They're not actively maintained.
+
 ## How do I install these formulae?
 
 `brew install phette23/local/<formula>`
